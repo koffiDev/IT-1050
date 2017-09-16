@@ -1,0 +1,7 @@
+C:\Users\serge\Desktop\Lab 1 IT 1050\Lab 1 IT 1050\Lab 1 IT 1050\bin\Debug\Lab 1 IT 1050.exe.config
+C:\Users\serge\Desktop\Lab 1 IT 1050\Lab 1 IT 1050\Lab 1 IT 1050\bin\Debug\Lab 1 IT 1050.exe
+C:\Users\serge\Desktop\Lab 1 IT 1050\Lab 1 IT 1050\Lab 1 IT 1050\bin\Debug\Lab 1 IT 1050.pdb
+C:\Users\serge\Desktop\Lab 1 IT 1050\Lab 1 IT 1050\Lab 1 IT 1050\obj\Debug\Lab 1 IT 1050.csprojResolveAssemblyReference.cache
+C:\Users\serge\Desktop\Lab 1 IT 1050\Lab 1 IT 1050\Lab 1 IT 1050\obj\Debug\Lab 1 IT 1050.csproj.CoreCompileInputs.cache
+C:\Users\serge\Desktop\Lab 1 IT 1050\Lab 1 IT 1050\Lab 1 IT 1050\obj\Debug\Lab 1 IT 1050.exe
+C:\Users\serge\Desktop\Lab 1 IT 1050\Lab 1 IT 1050\Lab 1 IT 1050\obj\Debug\Lab 1 IT 1050.pdb
