@@ -53,11 +53,14 @@ namespace Lab_1_IT_1050
             }
 
 
-
+            System.Console.Write("Your full name is: ");
             System.Console.WriteLine(fullName);
-            System.Console.WriteLine(totalHeightCM);
+            System.Console.Write("Your are: ");
+            System.Console.Write(totalHeightCM);
+            System.Console.WriteLine(" cm tall");
+            System.Console.Write("Your eligibilty to vote: ");
             System.Console.WriteLine(canVote);
-            System.Threading.Thread.Sleep(90000);
+            System.Threading.Thread.Sleep(15000);
 
         }
     }
