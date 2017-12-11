@@ -135,20 +135,7 @@ namespace Lab_4
             System.Console.WriteLine();
             System.Console.WriteLine("Press Any Key to Continue....");
             System.Console.ReadKey();
-        }
-
-
-
-
-        private static void WelcomeMessage()
-        {
-            System.Console.WriteLine();
-            System.Console.WriteLine("Welcome to the Movie Cost Estimator ");
-            System.Console.WriteLine("We are going to ask you a series of questions that will help us estimate the cost of your Movie ");
-            System.Console.WriteLine();
-            System.Console.WriteLine("When are you going to the movie? ");
-            System.Console.WriteLine("Please choose from the following options ");
-            System.Console.WriteLine("Matinee or Evening ");
+        
         }
     }
 }
