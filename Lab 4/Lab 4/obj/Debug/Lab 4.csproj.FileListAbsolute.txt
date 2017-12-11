@@ -12,3 +12,10 @@ C:\Users\serge\Desktop\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReferenc
 C:\Users\serge\Desktop\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
 C:\Users\serge\Desktop\Lab 4\Lab 4\obj\Debug\Lab 4.exe
 C:\Users\serge\Desktop\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
+C:\Users\serge\Desktop\Desktop\College\IT-1050\Lab 4\Lab 4\bin\Debug\Lab 4.exe.config
+C:\Users\serge\Desktop\Desktop\College\IT-1050\Lab 4\Lab 4\bin\Debug\Lab 4.exe
+C:\Users\serge\Desktop\Desktop\College\IT-1050\Lab 4\Lab 4\bin\Debug\Lab 4.pdb
+C:\Users\serge\Desktop\Desktop\College\IT-1050\Lab 4\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+C:\Users\serge\Desktop\Desktop\College\IT-1050\Lab 4\Lab 4\obj\Debug\Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\serge\Desktop\Desktop\College\IT-1050\Lab 4\Lab 4\obj\Debug\Lab 4.exe
+C:\Users\serge\Desktop\Desktop\College\IT-1050\Lab 4\Lab 4\obj\Debug\Lab 4.pdb
