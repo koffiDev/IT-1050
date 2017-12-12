@@ -1,0 +1,6 @@
+c:\users\serge\source\repos\FinalExam\FinalExam\bin\Release\FinalExam.exe.config
+c:\users\serge\source\repos\FinalExam\FinalExam\bin\Release\FinalExam.exe
+c:\users\serge\source\repos\FinalExam\FinalExam\bin\Release\FinalExam.pdb
+c:\users\serge\source\repos\FinalExam\FinalExam\obj\Release\FinalExam.csproj.CoreCompileInputs.cache
+c:\users\serge\source\repos\FinalExam\FinalExam\obj\Release\FinalExam.exe
+c:\users\serge\source\repos\FinalExam\FinalExam\obj\Release\FinalExam.pdb
